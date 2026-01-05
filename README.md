@@ -124,6 +124,5 @@ Logs will be created per run in:
    * Measures `pgstattuple.dead_tuple_percent`
    * If above threshold -> runs `VACUUM (ANALYZE)` only
 
-```
-```
+---
 
