@@ -107,6 +107,10 @@ Logs will be created per run in:
 /home/postgres/bloating_log/bloat_vacuum_YYYYMMDD_HHMMSS.log
 ```
 
+<img width="1128" height="820" alt="image" src="https://github.com/user-attachments/assets/afb8fc81-b3ca-4e11-954f-b767ea15a390" />
+
+
+
 ---
 
 ## How It Works
